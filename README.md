@@ -2,6 +2,7 @@
 <div align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshallow960&count_bg=%23302EB6&title_bg=%234C90C0&icon=librarything.svg&icon_color=%23E7E7E7&title=shallow&edge_flat=false">
 </div>
+<br />
 <div align="center">
     <img height="140px" src="https://github-readme-stats.vercel.app/api?username=shallow960&show_icons=true&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallow960&layout=compact">
