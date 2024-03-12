@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shallow960&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallow960&layout=compact">
+    <img style="height:160px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shallow960&layout=compact">
 </div>
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
