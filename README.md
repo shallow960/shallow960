@@ -11,20 +11,20 @@
   
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="SpringBoot" />
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="SpringBoot" />
+<img src="https://img.shields.io/badge/PostgreSql-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <br>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 <br>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css-663399?style=flat&logo=css3&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/Css3-663399?style=flat&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/TailWindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 <br>
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
