@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FAD0C4,100:FFD1FF&text=방문을%20환영합니다.&animation=fadeIn&fontColor=333333&fontSize=40&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&color=0:FAD0C4,100:FFD1FF&text=방문을%20환영합니다.&animation=fadeIn&fontColor=333333&fontSize=40&fontAlignY=40)
 
 <h2>🛠스킬</h2>
 
