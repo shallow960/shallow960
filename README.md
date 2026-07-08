@@ -1,10 +1,19 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&color=0:FAD0C4,100:FFD1FF&text=방문을%20환영합니다.&animation=fadeIn&fontColor=333333&fontSize=40&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&width=100%&height=200&color=0:FAD0C4,100:FFD1FF&text=안녕하세요,%20안형주입니다&animation=fadeIn&fontColor=333333&fontSize=40&fontAlignY=40)
 
 <br>
 
-<h2>Skills</h2>
+#클라이언트의 의도를 이해하고 안정적인 서버로 구현해 내는 풀스택 개발자
+### 공공 사업에서 증명된 철저한 표준 준수 능력을 바탕으로, <br> 화면부터 Spring 백엔드 인프라까지 탄탄한 서비스를 구축합니다.
+
+<br>
+<hr width="60%">
+<br>
+
+<h2>⚙️ Dev Stack</h2>
+
+<br>
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
