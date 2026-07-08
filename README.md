@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="SpringBoot" />
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=springboot&logoColor=white" alt="PostGreSql" />
 <br >
 <img src="https://img.shields.io/badge/nextdotjs-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
