@@ -5,10 +5,8 @@
 ### 클라이언트의 의도를 이해하고 안정적인 서버로 구현해 내는 풀스택 개발자
 #### 공공 사업에서 증명된 철저한 표준 준수 능력을 바탕으로, <br> 화면부터 Spring 백엔드 인프라까지 탄탄한 서비스를 구축합니다.
 <br>
-<br>
 <h2>Skills</h2>
 <br>
-  
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" />
